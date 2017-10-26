@@ -96,9 +96,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CSScriptIntellisense\CSScriptIntellisense.2017.csproj">
+    <ProjectReference Include="..\CSScriptIntellisense\CSScriptIntellisense.csproj">
       <Project>{EB8FC3A3-93E8-457B-B281-FAFA5119611A}</Project>
-      <Name>CSScriptIntellisense.2017</Name>
+      <Name>CSScriptIntellisense</Name>
     </ProjectReference>
     <ProjectReference Include="..\Intellisense.Interface\Intellisense.Common.csproj">
       <Project>{c67d7ed7-f350-4fd4-81b5-5e635fb08765}</Project>
