@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>9.0.21022</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{23B08B10-8297-4A90-9B6D-43DAC7416004}</ProjectGuid>
+    <ProjectGuid>{476DDE4F-7D5C-41C1-9753-775B78F5FC11}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CSScriptNpp</RootNamespace>
